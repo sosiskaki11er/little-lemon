@@ -30,4 +30,4 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Author
 
-- [Ruben Neto](https://github.com/RubenNeto)
+- [SosiskaKi11er](https://github.com/sosiskaki11er)
